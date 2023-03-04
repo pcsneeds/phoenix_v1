@@ -1,10 +1,10 @@
 class Header extends HTMLElement {
-    constructor() {
-      super();
-    }
-  
-    connectedCallback() {
-      this.innerHTML = `
+  constructor() {
+    super();
+  }
+
+  connectedCallback() {
+    this.innerHTML = `
       <header>
       <div class="container">
         <div class="header-content d-flex flex-wrap align-items-center">
@@ -80,16 +80,16 @@ class Header extends HTMLElement {
       </div>
     </header>
       `;
-    }
+  }
+}
+
+class Footer extends HTMLElement {
+  constructor() {
+    super();
   }
 
-  class Footer extends HTMLElement {
-    constructor() {
-      super();
-    }
-  
-    connectedCallback() {
-      this.innerHTML = `
+  connectedCallback() {
+    this.innerHTML = `
       <footer>
         <div class="container">
           <div class="top-footer">
@@ -184,8 +184,8 @@ class Header extends HTMLElement {
         </div>
       </footer>
       `;
-    }
   }
-  
-  customElements.define('header-component', Header);
-  customElements.define('footer-component', Footer);
+}
+
+customElements.define("header-component", Header);
+customElements.define("footer-component", Footer);
