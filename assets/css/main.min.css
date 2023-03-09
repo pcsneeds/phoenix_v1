@@ -15747,9 +15747,9 @@ p {
   background-color: #ce3322;
   height: 50px;
   line-height: 10px;
-  padding: 20px 60px;
+  padding: 20px 40px;
   position: relative;
-  border-radius: 4px;
+  border-radius: 50px;
   transition: all 0.4s ease-in-out;
 }
 .btn-default:hover {
@@ -15963,8 +15963,8 @@ header .navigation-bar nav ul ul ul {
 }
 .main-banner .banner-text > h2 {
   color: #2b2b2b;
-  font-size: 65.03px;
-  line-height: 81.29px;
+  font-size: 40px;
+  line-height: 50px;
   font-weight: 600;
   margin-bottom: 26px;
   padding-right: 20px;
