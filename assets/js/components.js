@@ -145,14 +145,13 @@ class Footer extends HTMLElement {
                 <div class="widget widget-links">
                   <h3 class="widget-title">Quick Links</h3>
                   <ul>
+                    <li><a href="index.html" title="">Home</a></li>
                     <li><a href="about.html" title="">About Us</a></li>
-                    <li><a href="classes.html" title="">Our Classes</a></li>
                     <li>
-                      <a href="teachers.html" title="">School Teachers</a>
+                      <a href="services.html" title="">Services</a>
                     </li>
-                    <li><a href="events.html" title="">Recent Events</a></li>
-                    <li><a href="blog.html" title="">Our News</a></li>
-                    <li><a href="schedule.html" title="">Schedule</a></li>
+                    <li><a href="gallery.html" title="">Gallery</a></li>
+                    <li><a href="contacts.html" title="">Contact Us</a></li>
                   </ul>
                 </div>
                 <!--widget-links end-->
