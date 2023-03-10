@@ -58,7 +58,7 @@ class Header extends HTMLElement {
                 <a href="services.html" title="">Services</a>
               </li>
               <li>
-                <a href="teachers.html" title="">Gallery</a>
+                <a href="gallery.html" title="">Gallery</a>
               </li>
               <li><a href="contacts.html" title="">Contact us</a></li>
             </ul>
