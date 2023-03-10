@@ -7,12 +7,12 @@ class Header extends HTMLElement {
     this.innerHTML = `
       <header>
       <div class="container">
-        <div class="header-content d-flex flex-wrap align-items-center">
+        <div class="header-content d-flex flex-wrap align-items-center ">
           <div class="logo">
             <a href="index.html" title=""><img src="assets/img/logo.svg" alt=""srcset="assets/img/logo.svg"/></a>
           </div>
           <!--logo end-->
-          <ul class="contact-add d-flex flex-wrap">
+          <ul class="contact-add d-flex flex-wrap justify-content-end">
             <li>
               <div class="contact-info">
                 <img src="assets/img/icon1.png" alt="" />
