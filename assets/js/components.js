@@ -9,7 +9,7 @@ class Header extends HTMLElement {
       <div class="container">
         <div class="header-content d-flex flex-wrap align-items-center ">
           <div class="logo">
-            <a href="index.html" title=""><img src="assets/img/logo.svg" alt=""srcset="assets/img/logo.svg"/></a>
+            <a href="index.html" title=""><img class="logo" src="assets/img/logo.svg" alt="icon" srcset="assets/img/logo.svg"/></a>
           </div>
           <!--logo end-->
           <ul class="contact-add d-flex flex-wrap justify-content-end">
@@ -49,7 +49,7 @@ class Header extends HTMLElement {
           <nav>
             <ul>
               <li>
-                <a class="active" href="index.html" title="">Home</a>
+                <a href="index.html" title="">Home</a>
               </li>
               <li>
                 <a href="about.html" title="">About us</a>
@@ -96,7 +96,7 @@ class Footer extends HTMLElement {
             <div class="row">
               <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="widget widget-about">
-                  <img src="assets/img/logo.svg" alt="" />
+                  <img src="assets/img/logo.svg" alt="icon" />
                   <p>
                     Vivamus porta efficitur nibh nec convallis. Vestibulum
                     egestas eleifend justo. Ut tellus ipsum, accumsan

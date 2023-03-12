@@ -1341,6 +1341,9 @@ pre code {
     flex: 0 0 33.33333%;
     max-width: 33.33333%;
   }
+  .col-contacts {
+    width: 100%;
+  }
   .col-lg-5 {
     -ms-flex: 0 0 41.66667%;
     flex: 0 0 41.66667%;
@@ -15804,7 +15807,7 @@ header .header-content {
 header .header-content .logo {
   -ms-flex: 0 0 33%;
   flex: 0 0 33%;
-  max-width: 33%;
+  max-width: 100%;
 }
 header .header-content .contact-add {
   margin-left: auto;
@@ -16578,6 +16581,7 @@ footer .top-footer {
   padding-bottom: 59px;
 }
 footer .widget-about > img {
+  max-width: 70%;
   margin-bottom: 28px;
 }
 footer .widget-contact ul li {
@@ -18682,7 +18686,7 @@ footer .bottom-footer .social-links {
     padding: 57px 50px 55px;
   }
   footer {
-    padding: 219px 0 40px;
+    padding: 120px 0 40px;
   }
   .meta li {
     margin-right: 5px;
@@ -18867,9 +18871,6 @@ footer .bottom-footer .social-links {
   }
   .mdp-contact .comment-area form .form-submit {
     text-align: left;
-  }
-  .mdp-our-contacts {
-    margin-top: 50px;
   }
   .pager-section.blog-version .pager-content > h2 {
     line-height: 52px;
@@ -19083,6 +19084,9 @@ footer .bottom-footer .social-links {
     margin-bottom: 40px;
   }
   .schedule-content {
+    display: none;
+  }
+  .main-section .main-title {
     display: none;
   }
 }
