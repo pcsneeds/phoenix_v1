@@ -98,8 +98,9 @@ class Footer extends HTMLElement {
                 <div class="widget widget-about">
                   <img src="assets/img/logo.svg" alt="icon" />
                   <p>
-                    Vivamus porta efficitur nibh nec convallis. Vestibulum
-                    egestas eleifend justo. Ut tellus ipsum, accumsan
+                  Phoenix centre with its expertise and know-how on can make a difference to their future. 
+                  Providing a conductive environment for vocational and Life Skills Training leading to their 
+                  employment, self dependance and acceptance in society.
                   </p>
                 </div>
                 <!--widget-about end-->
@@ -162,7 +163,7 @@ class Footer extends HTMLElement {
           <div class="bottom-footer">
             <div class="row align-items-center">
               <div class="col-lg-6 col-md-6 col-sm-6">
-                <p>© Copyrights 2023</p>
+                <p>© Copyrights 2023. All Rights Reserved.</p>
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul class="social-links">
