@@ -161,7 +161,7 @@ class Footer extends HTMLElement {
           <div class="bottom-footer">
             <div class="row align-items-center">
               <div class="col-lg-6 col-md-6 col-sm-6">
-                <p>© Copyrights 2023. Developed by <a href="https://www.kraftloop.in">Kraftloop</a></p>
+                <p class="kraftloop">© Copyrights 2023. Developed by <a href="https://www.kraftloop.in">Kraftloop</a></p>
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul class="social-links">

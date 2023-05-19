@@ -19443,3 +19443,12 @@ footer .bottom-footer .social-links {
     line-height: 24px;
   }
 }
+
+.kraftloop a {
+  color:#ce3322;
+}
+
+.kraftloop a:hover{
+  color: #007bff;
+  cursor: pointer;
+}
