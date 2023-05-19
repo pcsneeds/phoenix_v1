@@ -18,7 +18,7 @@ class Header extends HTMLElement {
                 <img src="assets/img/icon1.png" alt="" />
                 <div class="contact-tt">
                   <h4>Call</h4>
-                  <span>9656 15 9190</span>
+                  <span>+91 9747178401</span>
                 </div>
               </div>
               <!--contact-info end-->
@@ -29,7 +29,7 @@ class Header extends HTMLElement {
                 <img src="assets/img/icon3.png" alt="" />
                 <div class="contact-tt">
                   <h4>Address</h4>
-                  <span>Ooty Road, Perintanlmanna</span>
+                  <span>Near Al Shifa Hospital, Perinthalmanna - Nilambur Rd, Perintalmanna, Kerala 679322</span>
                 </div>
               </div>
               <!--contact-info end-->
@@ -66,13 +66,10 @@ class Header extends HTMLElement {
           <!--nav end-->
           <ul class="social-links ml-auto">
             <li>
-              <a href="#" title=""><i class="fab fa-facebook-f"></i></a>
+              <a href="https://www.facebook.com/profile.php?id=100092584939763" target="_blank" title=""><i class="fab fa-facebook-f"></i></a>
             </li>
             <li>
-              <a href="#" title=""><i class="fab fa-linkedin-in"></i></a>
-            </li>
-            <li>
-              <a href="#" title=""><i class="fab fa-instagram"></i></a>
+              <a href="https://instagram.com/pcsneeds?igshid=NTc4MTIwNjQ2YQ==" target="_blank" title=""><i class="fab fa-instagram"></i></a>
             </li>
           </ul>
         </div>
@@ -113,7 +110,7 @@ class Footer extends HTMLElement {
                         <img src="assets/img/icon1.png" alt="" />
                         <div class="contact-tt">
                           <h4>Call</h4>
-                          <span>9656 15 9190</span>
+                          <span>+91 9747178401</span>
                         </div>
                       </div>
                       <!--contact-info end-->
@@ -133,7 +130,8 @@ class Footer extends HTMLElement {
                         <img src="assets/img/icon3.png" alt="" />
                         <div class="contact-tt">
                           <h4>Address</h4>
-                          <span>Ooty Road, Perintanlmanna</span>
+                          <span>Near Al Shifa Hospital, Perinthalmanna</span>
+                          <span>Nilambur Rd, Perintalmanna, Kerala 679322</span>
                         </div>
                       </div>
                       <!--contact-info end-->
@@ -168,13 +166,10 @@ class Footer extends HTMLElement {
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul class="social-links">
                   <li>
-                    <a href="#" title=""><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100092584939763" target="_blank" title=""><i class="fab fa-facebook-f"></i></a>
                   </li>
                   <li>
-                    <a href="#" title=""><i class="fab fa-linkedin-in"></i></a>
-                  </li>
-                  <li>
-                    <a href="#" title=""><i class="fab fa-instagram"></i></a>
+                    <a href="https://instagram.com/pcsneeds?igshid=NTc4MTIwNjQ2YQ==" target="_blank" title=""><i class="fab fa-instagram"></i></a>
                   </li>
                 </ul>
               </div>
